@@ -1,3 +1,50 @@
+# netflixclone-2
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Francisco-tads/netflixclone-2/blob/master/LICENCE)
+
+# Sobre o projeto
+
+https://netflix-clone-2-a55ad.web.app/
+
+Foi criado com React, Dados adquiridos do site Themoviedb.org, encontra-se hospedado no Firebase, e toda sua estrutura de código, pode ser visualizada também no Github.
+ [netflixclone-2](https://netflix-clone-2-a55ad.web.app/ "Site do netflixclone-2").
+
+
+
+## Layout mobile
+![Mobile 1](https://github.com/Francisco-tads/netflixclone-2/blob/master/public/img/mobile.jpg) 
+
+## Layout web
+![Web 1](https://github.com/Francisco-tads/netflixclone-2/blob/master/public/img/tela-pc.png)
+
+
+## 
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML 
+- CSS
+- JavaScript
+- React  
+
+## Implantação em produção
+- Back end: Firebase
+- Front end web: Github
+- Banco de dados: Postgresql
+
+# Autor
+
+Francisco Vieira
+
+Meu Linkedin:
+
+https://www.linkedin.com/in/francisco-vieiratads/
+
+Creditos: 👇🏻
+
+https://www.youtube.com/watch?v=tBweoUiMsDg 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
